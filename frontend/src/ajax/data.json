@@ -1,0 +1,19 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "raz",
+            "avatar": "qqqq",
+            "email": "qwe",
+            "admin": false
+        },
+        {
+            "name": "asd",
+            "avatar": "ddd",
+            "email": "ddd",
+            "admin": true
+        }
+    ]
+}
